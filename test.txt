@@ -1,2 +1,3 @@
 Kolejna Zmiana pliku test.txt
-Edytowano z brancha master
+Edytowano
+
